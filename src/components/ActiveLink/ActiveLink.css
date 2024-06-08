@@ -1,0 +1,6 @@
+.active{
+    color: #7d71ff;
+}
+.active hr{
+    display: block !important;
+}
